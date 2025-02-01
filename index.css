@@ -1,0 +1,73 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+}
+
+
+:root{
+    --PrimaryColor: #0F112B;
+    --SecondaryColor: #25245F;
+    --AccedentColor: #AA54A0;
+}
+header{
+    background: var(--PrimaryColor);
+    color: white;
+}
+.sectionroadmap{
+    background: var(--PrimaryColor);
+}
+
+.widthlogo{
+    width: 120px;
+}
+.btnoutline{
+    border: none;
+}
+
+button{
+    background: var(--AccedentColor);
+}
+
+.bgbutton{
+    padding: 12px 15px;
+}
+.fsh1{
+    font-size: 80px;
+    color: var(--AccedentColor);
+    font-weight: 550;
+}
+
+h1 span {
+    color: grey;
+    font-weight:100;
+}
+.twobtn{
+    transition: 0.5s;
+    background:transparent  ;
+}
+
+.twobtn:hover{
+    background: var(--AccedentColor);
+}
+.fspintheqoral{
+    font-size: 16px;
+}
+.sectioncourse{
+    background: var(--PrimaryColor);
+}
+.imgmargin{
+    margin-left: -20px;
+}
+.cousrecardbg p{
+    font-size: 12px;
+}
+.btn{
+    background: var(--AccedentColor);
+}
+.btncolor{
+    background: var(--AccedentColor);
+    margin: ;
+}
+.bgroadmaptxt{
+    background: var(--SecondaryColor);
+}
